@@ -3,6 +3,7 @@
     <img src="https://img.shields.io/badge/-Node.js-339933?logo=Node.js&logoColor=white&style=flat""/>
     <img src="https://img.shields.io/badge/-Express-000000?logo=Express&logoColor=white&style=flat""/>
     <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Gatsby-663399?style=flat-square&logo=Gatsby&logoColor=white"/>
     <img src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=GraphQL&logoColor=white"/>
     <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
     <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=flat"/>

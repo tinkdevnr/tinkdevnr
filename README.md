@@ -1,3 +1,17 @@
+<h2 align="center">Eleazer Afotey - Full Stack Developer</h2>
+<p>
+I am an experienced full stack developer with 10 years of experience. I have the expertise to design, develop, and deploy web applications that meet the needs of clients using React, Next, Node.js, JavaScript, HTML, and CSS.
+</p>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tinkdevnr&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tinkdevnr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
 <p>
     <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat"/>
     <img src="https://img.shields.io/badge/-Node.js-339933?logo=Node.js&logoColor=white&style=flat""/>
@@ -22,9 +36,4 @@
     <img src="https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=Google%20Cloud&logoColor=white"/>
   </p>
-</p>
-
-<h3>⚡️ About Me ⚡️</h3><br/>
-<p>
-I am an experienced full stack developer with 10 years of experience. I have the expertise to design, develop, and deploy web applications that meet the needs of clients using React, Next, Node.js, JavaScript, HTML, and CSS.
 </p>

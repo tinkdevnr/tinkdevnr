@@ -1,4 +1,4 @@
-<h2 align="center">Eleazer Afotey - Full Stack Developer</h2>
+<h1 align="center">Eleazer Afotey - Full Stack Developer</h1>
 <p>
 I am an experienced full stack developer with 10 years of experience. I have the expertise to design, develop, and deploy web applications that meet the needs of clients using React, Next, Node.js, JavaScript, HTML, and CSS.
 </p>

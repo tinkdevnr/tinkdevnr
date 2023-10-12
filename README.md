@@ -3,15 +3,6 @@
 I am an experienced full stack developer with 10 years of experience. I have the expertise to design, develop, and deploy web applications that meet the needs of clients using React, Next, Node.js, JavaScript, HTML, and CSS.
 </p>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tinkdevnr&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tinkdevnr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
 <p>
     <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat"/>
     <img src="https://img.shields.io/badge/-Node.js-339933?logo=Node.js&logoColor=white&style=flat""/>
